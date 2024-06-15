@@ -7,7 +7,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/v1.0.1/text-leech-bot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/v1.0.1/text_leech_bot\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -15,18 +15,13 @@
       "execution_count": null,
       "metadata": {
         "colab": {
-          "background_save": true,
-          "base_uri": "https://localhost:8080/"
+          "background_save": true
         },
         "collapsed": true,
         "id": "4LRfoqdAHKl_",
-        "cellView": "form",
-        "outputId": "be7cc7d8-085e-4dcd-c0de-8c07c88d6817"
+        "cellView": "form"
       },
-      "outputs": [
-        {
-          "name": "stdout",
-          "output_type": "stream"],
+      "outputs": [],
       "source": [
         "import os\n",
         "import shutil\n",
