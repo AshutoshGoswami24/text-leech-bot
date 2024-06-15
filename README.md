@@ -6,7 +6,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=As%CA%9C%E1%B4%9C%E1%B4%9B%E1%B4%8Fs%CA%9CG%E1%B4%8Fs%E1%B4%A1%E1%B4%80%E1%B4%8D%C9%AA+%F0%9F%87%AE%F0%9F%87%B3+%26+%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD)](https://git.io/typing-svg)
 <p align="center">
 
 ## Deploy To Heroku
