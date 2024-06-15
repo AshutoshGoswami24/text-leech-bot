@@ -15,7 +15,9 @@
 
 ## Deploy To Google Colab
 
-[![Deploy To Google Colab](https://ashutoshgoswami24.github.io/Me/img/gc.png)](https://colab.research.google.com/gist/AshutoshGoswami24/d5162fbfb850ec94f187ca9026f6a2ec/text-leech-bot.ipynb#scrollTo=4LRfoqdAHKl_)
+<a href="https://colab.research.google.com/gist/AshutoshGoswami24/d5162fbfb850ec94f187ca9026f6a2ec/text-leech-bot.ipynb#scrollTo=4LRfoqdAHKl_">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:200px;"/>
+</a>
 
 ## vars.py [vars.py](https://github.com/AshutoshGoswami24/txt-leech-bot/blob/main/modules/vars.py)
 
