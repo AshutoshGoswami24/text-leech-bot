@@ -15,7 +15,7 @@
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/gist/AshutoshGoswami24/d5162fbfb850ec94f187ca9026f6a2ec/text-leech-bot.ipynb#scrollTo=4LRfoqdAHKl_">
+<a href="https://colab.research.google.com/gist/AshutoshGoswami24/d5162fbfb850ec94f187ca9026f6a2ec/text-leech-bot.ipynb#scrollTo=4LRfoqdAHKl_" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:200px;"/>
 </a>
 
