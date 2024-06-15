@@ -6,7 +6,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F70000&random=false&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%97%94%F0%9D%98%80%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%9A%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B6%F0%9D%9F%AE%F0%9D%9F%B0+Text+Leech+Telegram+Bot++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F70000&background=FF000000&random=false&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%26+%F0%9D%97%94%F0%9D%98%80%F0%9D%97%B5%F0%9D%98%82%F0%9D%98%81%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%9A%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B6%F0%9D%9F%AE%F0%9D%9F%B0+Bot)](https://git.io/typing-svg)
 
 <p align="center">
 
