@@ -1,14 +1,14 @@
 {
     "name": "𝐓𝐞𝐱𝐭 𝐋𝐞𝐞𝐜𝐡",
-    "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
-    "logo": "https://graph.org/file/f12a07e9ed8dc349da2e7.jpg",
+    "description": "Text Leech Video Extractor By PATHAN",
+    "logo": "https://graph.org/file/f51cddfccbdc7e7fa6151.jpg",
     "keywords": [
         "text-video",
         "video-extract",
         "pyrogram"
     ],
     "repository": "https://github.com/SudoR2spr/txt-leech-bot",
-    "success_url": "https://t.me/Opleech_WD",
+    "success_url": "https://t.me/+kwSPeUYin6gyZjBl",
     "stack": "heroku-22",
     "env": {
         "API_ID": {
