@@ -20,6 +20,15 @@
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:200px;"/>
 </a>
 
+## Deploy To Koyeb
+              
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/AshutoshGoswami24/text-leech-botr&branch=main&name=botking-ashu" >
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
+
+## Deploy To Render                  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AshutoshGoswami24/text-leech-bot)
+
 ## vars.py [vars.py](https://github.com/AshutoshGoswami24/txt-leech-bot/blob/main/modules/vars.py)
 
 * `BOT_TOKEN`  - Get Bot Token From @BotFather
@@ -28,9 +37,7 @@
 
 * `API_HASH` - From my.telegram.org
 
-* `OWNER_ID` - From @MissRose_bot [Rose Mam](https://t.me/MissRose_bot)
-
-* `SUDO_USERS` - AUTH Or Bot Controllers Id's Multiple Id Use Space To Split
+* `PORT` - `8080`
 
 
 ## Botfather Commands
@@ -50,4 +57,4 @@ uplod - 🎬 Txt file upload
 -----
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING) [𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰](https://github.com/AshutoshGoswami24)
 
-Last Edited on: 06/15/2024
+Last Edited on: 06/29/2024: 2:42:44 AM
