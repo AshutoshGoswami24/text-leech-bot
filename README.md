@@ -2,7 +2,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/banner-header.gif">
+<img src="https://graph.org/file/6ed6ada52f1a1237a5837.jpg">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
