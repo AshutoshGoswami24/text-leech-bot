@@ -17,4 +17,4 @@ services:
       - key: WEBHOOK
         sync: false
       - key: PORT
-        value: 8000  # Default port value, update if needed
+        sync: false  # Default port value, update if needed
