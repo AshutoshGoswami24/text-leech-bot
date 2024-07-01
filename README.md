@@ -50,7 +50,6 @@ start - 🦋 ʙᴏᴛ ᴀʟɪᴠᴇ ᴄʜᴇᴋɪɴɢ
 stop - 🔥 ᴜᴘʟᴏᴀᴅ sᴛᴏᴘ
 uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 ```
-# [Damo Bot](https://t.me/TxT_Leech_v2_Bot) 
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
@@ -61,5 +60,5 @@ uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
  
 -----
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING) [𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰](https://github.com/AshutoshGoswami24)
-
+[Damo Bot](https://t.me/TxT_Leech_v2_Bot) 
 Last Edited on: 06/29/2024: 2:42:44 AM
