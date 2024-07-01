@@ -44,9 +44,9 @@
 
 ## Botfather Commands
 ```
-start - 🦋 Bot Alive Cheking
-stop - 🛑 Upload stop
-uplod - 🎬 Txt file upload
+start - 🦋 ʙᴏᴛ ᴀʟɪᴠᴇ ᴄʜᴇᴋɪɴɢ
+stop - 🔥 ᴜᴘʟᴏᴀᴅ sᴛᴏᴘ
+uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 ```
 
 
