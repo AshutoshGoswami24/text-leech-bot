@@ -31,13 +31,15 @@
 
 ## vars.py [vars.py](https://github.com/AshutoshGoswami24/txt-leech-bot/blob/main/modules/vars.py)
 
-* `BOT_TOKEN`  - Get Bot Token From @BotFather
+❏ `BOT_TOKEN`  - Get Bot Token From @BotFather
 
-* `API_ID` - From my.telegram.org 
+❏ `API_ID` - From my.telegram.org 
 
-* `API_HASH` - From my.telegram.org
+❏ `API_HASH` - From my.telegram.org
 
-* `PORT` - Any Port Like 6969
+❏ `PORT` - Any Port Like 6969
+
+❏
 
 
 ## Botfather Commands
