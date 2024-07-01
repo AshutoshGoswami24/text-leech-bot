@@ -29,7 +29,7 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AshutoshGoswami24/text-leech-bot)
 
-## vars.py [vars.py](https://github.com/AshutoshGoswami24/txt-leech-bot/blob/main/modules/vars.py)
+## vars.py [vars.py](https://github.com/AshutoshGoswami24/txt-leech-bot/modules/vars.py)
 
 ❏ `BOT_TOKEN`  - Get Bot Token From @BotFather
 
@@ -37,7 +37,7 @@
 
 ❏ `API_HASH` - From my.telegram.org
 
-❏ `PORT` - Any Port Like 6969
+❏ `PORT` - Any Port Like 6969 
 
 ❏
 
