@@ -29,7 +29,7 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AshutoshGoswami24/text-leech-bot)
 
-## vars.py [vars.py](https://github.com/AshutoshGoswami24/text-leech-bot/modules/vars.py)
+## vars.py [vars.py](https://github.com/AshutoshGoswami24/text-leech-bot/blob/main/modules/vars.py)
 
 ❏ `BOT_TOKEN`  - Get Bot Token From [@BotFather](https://t.me/BotFather)
 
@@ -58,7 +58,5 @@ uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
  
 -----
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING) [𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰](https://github.com/AshutoshGoswami24)
-
-Thanks For : `https://github.com/SudoR2spr/text-leech-bot`  [Link](https://github.com/SudoR2spr/text-leech-bot)
 
 Last Edited on: 06/29/2024: 2:42:44 AM
