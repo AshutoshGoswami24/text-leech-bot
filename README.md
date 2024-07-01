@@ -35,6 +35,16 @@
 <a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AshutoshGoswami24/text-leech-bot&tutorial=help/cloud.google.mb" >
   <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
 
+## Deploy To VPS
+```git clone https://github.com/AshutoshGoswami24/text-leech-bot```
+```cd text-leech-bot```
+```pip install -r requirements.txt```
+```sudo apt update```
+```sudo apt install ffmpeg```
+```python3 modules/main.py```
+
+
+
 ## vars.py [vars.py](https://github.com/AshutoshGoswami24/text-leech-bot/blob/main/modules/vars.py)
 
 ❏ `BOT_TOKEN`  - Get Bot Token From [@BotFather](https://t.me/BotFather)
