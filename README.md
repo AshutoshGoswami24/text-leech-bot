@@ -10,6 +10,8 @@
 
 <p align="center">
 
+
+
 ## Deploy To Heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AshutoshGoswami24/text-leech-bot)
@@ -48,7 +50,7 @@ start - 🦋 ʙᴏᴛ ᴀʟɪᴠᴇ ᴄʜᴇᴋɪɴɢ
 stop - 🔥 ᴜᴘʟᴏᴀᴅ sᴛᴏᴘ
 uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 ```
-
+## [Damo Bot](https://t.me/TxT_Leech_v2_Bot) 
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
