@@ -78,9 +78,8 @@ uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 </p>
  
 -----
-<p align="center">
 Credits: 🎖️<a href="https://t.me/Farooq_is_KING">𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a>  🎖️<a href="https://github.com/AshutoshGoswami24">𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰</a> 🤖<a href="https://t.me/TxT_Leech_v2_Bot">Damo Bot</a>
 
 Last Edited on: 07/01/2024, 11:05:19 PM
-</p>
+
 
