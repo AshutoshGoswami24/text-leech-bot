@@ -31,7 +31,9 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AshutoshGoswami24/text-leech-bot)
 
-## Deploy To Render 
+## Deploy To Cloud Shell Editor
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AshutoshGoswami24/text-leech-bot&tutorial=help/cloud.google.mb" >
+  <img src="https://graph.org/file/541d5d6e7100550731d55.jpg" alt="Deploy"></a>
 
 ## vars.py [vars.py](https://github.com/AshutoshGoswami24/text-leech-bot/blob/main/modules/vars.py)
 
