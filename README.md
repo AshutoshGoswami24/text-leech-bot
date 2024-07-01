@@ -50,7 +50,7 @@ start - 🦋 ʙᴏᴛ ᴀʟɪᴠᴇ ᴄʜᴇᴋɪɴɢ
 stop - 🔥 ᴜᴘʟᴏᴀᴅ sᴛᴏᴘ
 uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 ```
-## [Damo Bot](https://t.me/TxT_Leech_v2_Bot) 
+<h1> [Damo Bot](https://t.me/TxT_Leech_v2_Bot) </h1>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
