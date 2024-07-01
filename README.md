@@ -31,15 +31,15 @@
 
 ## vars.py [vars.py](https://github.com/AshutoshGoswami24/text-leech-bot/modules/vars.py)
 
-❏ `BOT_TOKEN`  - Get Bot Token From @BotFather
+❏ `BOT_TOKEN`  - Get Bot Token From [@BotFather](https://t.me/BotFather)
 
-❏ `API_ID` - From my.telegram.org 
+❏ `API_ID` - From [my.telegram.org ](https://my.telegram.org/)
 
-❏ `API_HASH` - From my.telegram.org
+❏ `API_HASH` - From [my.telegram.org](https://my.telegram.org/)
 
-❏ `PORT` - Any Port Like 6969 | Dont Use 8080 in app.koyeb.com & colab.research.google.com
+❏ `PORT` - Any Port Like 6969 | Dont Use 8080 in [app.koyeb.com](https://app.koyeb.com/) & [colab.research.google.com](https://colab.research.google.com/)
 
-❏ `WEBHOOK` - True if you use render.com & app.koyeb.com
+❏ `WEBHOOK` - True if you use [render.com](https://dashboard.render.com/) & [app.koyeb.com](https://app.koyeb.com/)
 
 
 ## Botfather Commands
