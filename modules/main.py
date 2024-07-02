@@ -95,7 +95,7 @@ async def account_login(bot: Client, m: Message):
     await input1.delete(True)
     
 
-    await editable.edit(Ashu.Q1_TXT)
+    await editable.edit(Ashu.Q1_TEXT)
     input2: Message = await bot.listen(editable.chat.id)
     raw_text2 = input2.text
     await input2.delete(True)
@@ -119,7 +119,7 @@ async def account_login(bot: Client, m: Message):
     
     
 
-    await editable.edit("✏️ ɴᴏᴡ ᴇɴᴛᴇʀ ᴀ ᴄᴀᴘᴛɪᴏɴ ᴛᴏ ᴀᴅᴅ ᴄᴀᴘᴛɪᴏɴ ᴏɴ ʏᴏᴜʀ ᴜᴘʟᴏᴀᴅᴇᴅ ғɪʟᴇ")
+    await editable.edit(Ashu.C1_TEXT)
     input3: Message = await bot.listen(editable.chat.id)
     raw_text3 = input3.text
     await input3.delete(True)
@@ -129,7 +129,7 @@ async def account_login(bot: Client, m: Message):
     else:
         MR = raw_text3
    
-    await editable.edit("🌄 ɴᴏᴡ sᴇɴᴅ ᴛʜᴇ ᴛʜᴜᴍʙ ᴜʀʟ\nEg » `https://graph.org/file/698599feb76711fa080f6.jpg`\n\n ᴏʀ ɪғ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴇɴᴅ = `no`/n ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ ᴜʀʟ ᴜsᴇ ᴛʜɪs ʙᴏᴛ -  @FileToUrlX_Bot /n➤ sᴇɴᴅ ɪᴍɢᴀᴇ ɪɴ ʙᴏᴛ/n➤ Reply `/telegraph` ")
+    await editable.edit(Ashu.T1_TEXT)
     input6 = message = await bot.listen(editable.chat.id)
     raw_text6 = input6.text
     await input6.delete(True)
