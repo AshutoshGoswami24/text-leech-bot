@@ -21,7 +21,7 @@ from pyrogram.errors import FloodWait
 from pyrogram.errors.exceptions.bad_request_400 import StickerEmojiInvalid
 from pyrogram.types.messages_and_media import message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-
+from style import Ashu 
 
 # Initialize the bot
 bot = Client(
@@ -46,7 +46,7 @@ async def web_server():
 @bot.on_message(filters.command(["start"]))
 async def account_login(bot: Client, m: Message):
     await m.reply_text(
-       f"ʜᴇʟʟᴏ ɪ ᴀᴍ ᴀsʜᴜ ᴛᴇxᴛ ʟᴇᴇᴄʜ ʙᴏᴛ  ɪ ᴀᴍ ᴀ ʙᴏᴛ ғᴏʀ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋs ғʀᴏᴍ ʏᴏᴜʀ **.ᴛxᴛ** ғɪʟᴇ ᴀɴᴅ ᴛʜᴇɴ ᴜᴘʟᴏᴀᴅ ᴛʜᴀᴛ ғɪʟᴇ ᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ sᴏ ʙᴀsɪᴄᴀʟʟʏ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ғɪʀsᴛ sᴇɴᴅ ᴍᴇ ⟰ /upload ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴛʜᴇɴ ғᴏʟʟᴏᴡ ғᴇᴡ sᴛᴇᴘs..", reply_markup=InlineKeyboardMarkup(
+       Ashu.START_TEXT, reply_markup=InlineKeyboardMarkup(
             [
                     [
                     InlineKeyboardButton("✜ ᴀsʜᴜᴛᴏsʜ ɢᴏsᴡᴀᴍɪ 𝟸𝟺 ✜" ,url="https://t.me/AshutoshGoswami24") ],
@@ -95,7 +95,7 @@ async def account_login(bot: Client, m: Message):
     await input1.delete(True)
     
 
-    await editable.edit("❏ sᴇɴᴅ ǫᴜᴀʟɪᴛʏ ʏᴏᴜ ᴡᴀɴᴛ/n➤ 𝟷𝟺𝟺ᴘ - sᴇɴᴅ `144`/n➤ 𝟸𝟺𝟶ᴘ - sᴇɴᴅ `240`/n➤ 𝟹𝟼𝟶ᴘ - sᴇɴᴅ `360`/n➤ 𝟺𝟾𝟶ᴘ - sᴇɴᴅ `480`/n➤ 𝟽𝟸𝟶ᴘ - sᴇɴᴅ `720`/n➤ 𝟷𝟶𝟾𝟶ᴘ - sᴇɴᴅ `1080`")
+    await editable.edit(Ashu.Q1_TXT)
     input2: Message = await bot.listen(editable.chat.id)
     raw_text2 = input2.text
     await input2.delete(True)
