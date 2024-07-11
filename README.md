@@ -36,17 +36,29 @@
   <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
 
 ## Deploy To VPS
-`git clone https://github.com/AshutoshGoswami24/text-leech-bot`
+```
+git clone https://github.com/AshutoshGoswami24/text-leech-bot
+```
 
-`cd text-leech-bot`
+```
+cd text-leech-bot
+```
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
-`sudo apt update`
+```
+sudo apt update
+```
 
-`sudo apt install ffmpeg`
+```
+sudo apt install ffmpeg
+```
 
-`python3 modules/main.py`
+```
+python3 modules/main.py
+```
 
 
 
