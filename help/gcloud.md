@@ -11,7 +11,12 @@ ls
 ## If ~/cloudshell_open/text-leech-bot$ Then Do 
 
 ```
-pip install -r requirements.txt
+sudo apt-get install python3 python3-pip
+```
+
+
+```
+pip3 install -r requirements.txt
 ```
 
 ```
