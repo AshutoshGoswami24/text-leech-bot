@@ -11,15 +11,6 @@
 <p align="center">
 
 
-
-## Deploy To Google Colab
-
-<a href="https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/main/text_leech_bot" target="_blank">
-  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
-</a>
-
-
-
 ## Deploy To Cloud Shell Editor
 <a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AshutoshGoswami24/text-leech-bot&tutorial=help/gcloud.md" >
   <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
