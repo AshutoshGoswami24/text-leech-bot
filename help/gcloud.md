@@ -31,6 +31,7 @@ sudo apt install ffmpeg
 python3 modules/main.py
 ```
 
+## This one: if you want to deploy again, delete the old file and session.
 ```
 find . -type f \( -name "*.session" -o -name "*.pyc" -o -name "*.session-journal" -o -name "*.MP4" -o -name "*.pdf" -o -name "*.mp4" -o -name "*.aria2" -o -name "*.part" \) -delete
 find . -type f \( -name "*.MP4" -o -name "*.pdf" -o -name "*.mp4" -o -name "*.aria2" -o -name "*.part" \) -delete
