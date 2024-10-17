@@ -10,7 +10,7 @@
 ```
 nano modules/vars.py
 ```
-<h1>ctrl + s : For save and ctrl + x : for exit</h1>
+<h1>USE : `ctrl + s` : FOR SAVE | `ctrl + x` : FOR EXIT</h1>
 
 ## STEP 2 : BUITL DOCKERFILE
 
