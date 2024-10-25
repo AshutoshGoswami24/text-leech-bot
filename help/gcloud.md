@@ -12,13 +12,13 @@ nano modules/vars.py
 ```
 USE : `ctrl + s` : FOR SAVE | `ctrl + x` : FOR EXIT
 
-## STEP 2 : BUITL DOCKERFILE
+## STEP 2 : BUILD DOCKERFILE
 
 ```
 docker build -t text-leech-bot-by-ashu .
 ```
 
-## STEP 3 : RUN APP
+## STEP 3 : RUN DOCKER APP
 ```
 docker run -it --rm text-leech-bot-by-ashu
 ```
