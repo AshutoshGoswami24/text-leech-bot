@@ -10,6 +10,13 @@
 ```
 nano modules/vars.py
 ```
+```
+export API_ID=""
+export API_HASH=""
+export BOT_TOKEN=""
+
+```
+
 USE : `ctrl + s` : FOR SAVE | `ctrl + x` : FOR EXIT
 
 ## STEP 2 : BUILD DOCKERFILE
