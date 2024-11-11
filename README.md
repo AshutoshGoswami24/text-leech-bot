@@ -49,20 +49,25 @@ cd text-leech-bot
 ```
 
 ```
-pip install -r requirements.txt
+nano modules/vars.py
+```
+
+USE : `ctrl + s` : FOR SAVE | `ctrl + x` : FOR EXIT
+
+```
+sudo apt install docker.io -y
 ```
 
 ```
-sudo apt update
+sudo docker build -t text-leech-bot-by-ashu .
 ```
 
 ```
-sudo apt install ffmpeg
+sudo docker run -it --rm text-leech-bot-by-ashu
 ```
 
-```
-python3 modules/main.py
-```
+
+
 
 
 
