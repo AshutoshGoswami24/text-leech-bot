@@ -1,0 +1,62 @@
+name: HOME
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+    inputs:
+      HEROKU_API_KEY:
+        description: 'Heroku API Key'
+        required: true
+      HEROKU_APP_NAME:
+        description: 'Heroku App Name'
+        required: true
+      HEROKU_EMAIL:
+        description: 'Heroku Email'
+        required: true
+      HEROKU_TEAM_NAME:
+        description: 'Heroku Team Name'
+        required: false
+      HEROKU_REGION:
+          description: 'Heroku Region (us or eu)'
+          required: false
+          type: choice
+          options:
+            - us
+            - eu
+          default: 'us'
+      API_ID:
+        description: 'API ID'
+        required: true
+      API_HASH:
+        description: 'API Hash'
+        required: true
+      BOT_TOKEN:
+        description: 'Bot Token'
+        required: true
+      
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout deploy branch
+        uses: actions/checkout@v2
+
+      - name: Deploy to Heroku
+        uses: Ashu-45/heroku-deploy@main
+        with:
+          heroku_api_key: ${{ inputs.HEROKU_API_KEY }}
+          heroku_app_name: ${{ inputs.HEROKU_APP_NAME }}
+          heroku_email: ${{ inputs.HEROKU_EMAIL }}
+          team: ${{ inputs.HEROKU_TEAM_NAME || '' }}
+          usedocker: true
+          docker_heroku_process_type: web
+          stack: "container"
+          region: "${{ inputs.HEROKU_REGION }}"
+        env:
+          HD_API_ID: ${{ inputs.API_ID }}
+          HD_API_HASH: ${{ inputs.API_HASH }}
+          HD_BOT_TOKEN: ${{ inputs.BOT_TOKEN }}
+
+
