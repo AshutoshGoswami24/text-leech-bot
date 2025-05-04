@@ -2,7 +2,7 @@ import os
 
 API_ID    = os.environ.get("API_ID", "21502917")
 API_HASH  = os.environ.get("API_HASH", "fbd85bad63b38d8c0f2c0fd6202f413b")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7693396870:AAFJMjbOAC304f6G5osYRnbeE-J22VW0t5w") 
 
 WEBHOOK = True  # Don't change this
 PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
