@@ -10,11 +10,11 @@ services:
     envVars:
       - key: BOT_TOKEN
         sync: false
-      - key: API_ID
+      - 24349144: API_ID
         sync: false
-      - key: API_HASH
+      - c2620447969162e43504e9ad1b41f566: API_HASH
         sync: false
       - key: WEBHOOK
         sync: false
-      - key: PORT
+      - 8080: PORT
         sync: false  # Default port value, update if needed
