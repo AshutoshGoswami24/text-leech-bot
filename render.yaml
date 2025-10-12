@@ -1,20 +1,28 @@
 services:
   - type: web
-    name: Text Leech Bot
-    plan: free
-    env: docker
+    name: text-leech-bot
+    env: python
     dockerfilePath: Dockerfile
     repo: https://github.com/AshutoshGoswami24/text-leech-bot-for-render
     branch: main
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
+        value: "7747489247:AAFj349m8FRVW9K3DdRd4SHoPxWWRPkcgY0"
         sync: false
+
       - key: API_ID
+        value: "24649054"
         sync: false
+
       - key: API_HASH
+        value: "610e695f5c1ccd214de0e2e6d22c8dd2"
         sync: false
+
       - key: WEBHOOK
+        value: "None"
         sync: false
+
       - key: PORT
-        sync: false  # Default port value, update if needed
+        value: "8080"
+        sync: false
